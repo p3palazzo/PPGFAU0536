@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: '<i class="ai ai-moodle"></i>&nbsp;&nbsp;&nbsp;Aprender3'
+    url: https://aprender3.unb.br/course/view.php?id=22080
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
